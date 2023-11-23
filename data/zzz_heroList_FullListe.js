@@ -40,6 +40,10 @@ export const heroList = [
     skinName: "Ashe"
   },
   {
+    heroName: "Aurelion Sol",
+    skinName: "Aurelion Sol"
+  },
+  {
     heroName: "Azir",
     skinName: "Azir"
   },
@@ -58,6 +62,10 @@ export const heroList = [
   {
     heroName: "Brand",
     skinName: "Brand"
+  },
+  {
+    heroName: "Braum",
+    skinName: "Braum"
   },
   {
     heroName: "Briar",
@@ -102,6 +110,14 @@ export const heroList = [
   {
     heroName: "Ekko",
     skinName: "Ekko"
+  },
+  {
+    heroName: "Elise",
+    skinName: "Elise"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Evelynn"
   },
   {
     heroName: "Ezreal",
@@ -192,6 +208,10 @@ export const heroList = [
     skinName: "Jinx"
   },
   {
+    heroName: "Kai'Sa",
+    skinName: "Kai'Sa"
+  },
+  {
     heroName: "Kalista",
     skinName: "Kalista"
   },
@@ -244,6 +264,10 @@ export const heroList = [
     skinName: "K'Sante"
   },
   {
+    heroName: "LeBlanc",
+    skinName: "LeBlanc"
+  },
+  {
     heroName: "Lee Sin",
     skinName: "Lee Sin"
   },
@@ -294,6 +318,10 @@ export const heroList = [
   {
     heroName: "Miss Fortune",
     skinName: "Miss Fortune"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "Wukong"
   },
   {
     heroName: "Mordekaiser",
@@ -420,8 +448,16 @@ export const heroList = [
     skinName: "Sejuani"
   },
   {
+    heroName: "Senna",
+    skinName: "Senna"
+  },
+  {
     heroName: "Seraphine",
     skinName: "Seraphine"
+  },
+  {
+    heroName: "Sett",
+    skinName: "Sett"
   },
   {
     heroName: "Shaco",
@@ -494,6 +530,10 @@ export const heroList = [
   {
     heroName: "Thresh",
     skinName: "Thresh"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Tristana"
   },
   {
     heroName: "Trundle",
@@ -576,6 +616,10 @@ export const heroList = [
     skinName: "Xin Zhao"
   },
   {
+    heroName: "Yasuo",
+    skinName: "Yasuo"
+  },
+  {
     heroName: "Yone",
     skinName: "Yone"
   },
@@ -617,7 +661,23 @@ export const heroList = [
   },
   {
     heroName: "Aurelion Sol",
+    skinName: "Ashen Lord Aurelion Sol"
+  },
+  {
+    heroName: "Aurelion Sol",
     skinName: "Mecha Aurelion Sol"
+  },
+  {
+    heroName: "Aurelion Sol",
+    skinName: "default"
+  },
+  {
+    heroName: "Aurelion Sol",
+    skinName: "Inkshadow Aurelion Sol"
+  },
+  {
+    heroName: "Aurelion Sol",
+    skinName: "Storm Dragon Aurelion Sol"
   },
   {
     heroName: "Aphelios",
@@ -1765,7 +1825,19 @@ export const heroList = [
   },
   {
     heroName: "Elise",
+    skinName: "default"
+  },
+  {
+    heroName: "Elise",
+    skinName: "Bewitching Elise"
+  },
+  {
+    heroName: "Elise",
     skinName: "Super Galaxy Elise"
+  },
+  {
+    heroName: "Elise",
+    skinName: "Withered Rose Elise"
   },
   {
     heroName: "Elise",
@@ -1789,7 +1861,31 @@ export const heroList = [
   },
   {
     heroName: "Azir",
+    skinName: "default"
+  },
+  {
+    heroName: "Azir",
     skinName: "Gravelord Azir"
+  },
+  {
+    heroName: "Azir",
+    skinName: "SKT T1 Azir"
+  },
+  {
+    heroName: "Azir",
+    skinName: "Worlds 2022 Azir"
+  },
+  {
+    heroName: "Azir",
+    skinName: "Galactic Azir"
+  },
+  {
+    heroName: "Azir",
+    skinName: "Warring Kingdoms Azir"
+  },
+  {
+    heroName: "Azir",
+    skinName: "Elderwood Azir"
   },
   {
     heroName: "Cho'Gath",
@@ -2077,6 +2173,18 @@ export const heroList = [
   },
   {
     heroName: "Kai'Sa",
+    skinName: "K/DA Kai'Sa"
+  },
+  {
+    heroName: "Kai'Sa",
+    skinName: "Lagoon Dragon Kai'Sa"
+  },
+  {
+    heroName: "Kai'Sa",
+    skinName: "iG Kai'Sa"
+  },
+  {
+    heroName: "Kai'Sa",
     skinName: "Prestige K/DA Kai'Sa (2022)"
   },
   {
@@ -2113,7 +2221,23 @@ export const heroList = [
   },
   {
     heroName: "Braum",
+    skinName: "Pool Party Braum"
+  },
+  {
+    heroName: "Braum",
+    skinName: "Crime City Braum"
+  },
+  {
+    heroName: "Braum",
+    skinName: "Sugar Rush Braum"
+  },
+  {
+    heroName: "Braum",
     skinName: "default"
+  },
+  {
+    heroName: "Braum",
+    skinName: "El Tigre Braum"
   },
   {
     heroName: "Braum",
@@ -2222,6 +2346,62 @@ export const heroList = [
   {
     heroName: "Gangplank",
     skinName: "Pool Party Gangplank"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Masquerade Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "default"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "K/DA Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Tango Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Sugar Rush Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Prestige K/DA Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Blood Moon Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Coven Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Soul Fighter Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Spirit Blossom Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Safecracker Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Shadow Evelynn"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "Prestige K/DA Evelynn (2022)"
+  },
+  {
+    heroName: "Evelynn",
+    skinName: "K/DA ALL OUT Evelynn"
   },
   {
     heroName: "Hecarim",
@@ -3849,6 +4029,34 @@ export const heroList = [
   },
   {
     heroName: "Sett",
+    skinName: "Spirit Blossom Sett"
+  },
+  {
+    heroName: "Sett",
+    skinName: "default"
+  },
+  {
+    heroName: "Sett",
+    skinName: "Firecracker Sett"
+  },
+  {
+    heroName: "Sett",
+    skinName: "Soul Fighter Sett"
+  },
+  {
+    heroName: "Sett",
+    skinName: "Obsidian Dragon Sett"
+  },
+  {
+    heroName: "Sett",
+    skinName: "Pool Party Sett"
+  },
+  {
+    heroName: "Sett",
+    skinName: "Mecha Kingdoms Sett"
+  },
+  {
+    heroName: "Sett",
     skinName: "Prestige Obsidian Dragon Sett"
   },
   {
@@ -3905,7 +4113,75 @@ export const heroList = [
   },
   {
     heroName: "Senna",
+    skinName: "default"
+  },
+  {
+    heroName: "Senna",
+    skinName: "PROJECT: Senna"
+  },
+  {
+    heroName: "Senna",
+    skinName: "Lunar Eclipse Senna"
+  },
+  {
+    heroName: "Senna",
+    skinName: "Star Guardian Senna"
+  },
+  {
+    heroName: "Senna",
     skinName: "Prestige True Damage Senna"
+  },
+  {
+    heroName: "Senna",
+    skinName: "Prestige Lunar Eclipse Senna"
+  },
+  {
+    heroName: "Senna",
+    skinName: "True Damage Senna"
+  },
+  {
+    heroName: "Senna",
+    skinName: "High Noon Senna"
+  },
+  {
+    heroName: "Senna",
+    skinName: "Bewitching Senna"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "Faerie Court Seraphine"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "default"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "Graceful Phoenix Seraphine"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "K/DA ALL OUT Seraphine Indie"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "K/DA ALL OUT Seraphine Rising Star"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "Ocean Song Seraphine"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "K/DA ALL OUT Seraphine Superstar"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "Star Guardian Seraphine"
+  },
+  {
+    heroName: "Seraphine",
+    skinName: "Prestige Ocean Song Seraphine"
   },
   {
     heroName: "Tahm Kench",
@@ -4038,6 +4314,46 @@ export const heroList = [
   {
     heroName: "Jax",
     skinName: "Empyrean Jax"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Bewitching Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Firecracker Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Pengu Cosplay Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Buccaneer Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Earnest Elf Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Firefighter Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Guerilla Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Little Demon Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Omega Squad Tristana"
+  },
+  {
+    heroName: "Tristana",
+    skinName: "Dragon Trainer Tristana"
   },
   {
     heroName: "Tristana",
@@ -4561,6 +4877,54 @@ export const heroList = [
   },
   {
     heroName: "LeBlanc",
+    skinName: "Prestigious LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "default"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Elderwood LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Ravenborn LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Worlds 2020 LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Coven LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Program LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Prestige Coven LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Bewitching LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Wicked LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "iG LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
+    skinName: "Mistletoe LeBlanc"
+  },
+  {
+    heroName: "LeBlanc",
     skinName: "Debonair LeBlanc"
   },
   {
@@ -4886,6 +5250,26 @@ export const heroList = [
   {
     heroName: "Rumble",
     skinName: "Space Groove Rumble"
+  },
+  {
+    heroName: "Yasuo",
+    skinName: "default"
+  },
+  {
+    heroName: "Yasuo",
+    skinName: "Prestige Inkshadow Yasuo"
+  },
+  {
+    heroName: "Yasuo",
+    skinName: "True Damage Yasuo"
+  },
+  {
+    heroName: "Yasuo",
+    skinName: "PROJECT: Yasuo"
+  },
+  {
+    heroName: "Yasuo",
+    skinName: "Inkshadow Yasuo"
   },
   {
     heroName: "Yasuo",
@@ -5554,6 +5938,62 @@ export const heroList = [
   {
     heroName: "Nidalee",
     skinName: "Ocean Song Nidalee"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Firefang Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "default"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Feral Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Urf the Manatee"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Hyena Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Tundra Hunter Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Big Bad Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Urfwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Winterblessed Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Lunar Guardian Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Prestige Winterblessed Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Old God Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "PROJECT: Warwick"
+  },
+  {
+    heroName: "Warwick",
+    skinName: "Grey Warwick"
   },
   {
     heroName: "Warwick",
@@ -6541,6 +6981,38 @@ export const heroList = [
   },
   {
     heroName: "Wukong",
+    skinName: "Volcanic Wukong"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "Lancer Stratus Wukong"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "Elderwood Wukong"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "default"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "Battle Academia Wukong"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "General Wukong"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "Radiant Wukong"
+  },
+  {
+    heroName: "Wukong",
+    skinName: "Underworld Wukong"
+  },
+  {
+    heroName: "Wukong",
     skinName: "Jade Dragon Wukong"
   },
   {
@@ -6618,6 +7090,42 @@ export const heroList = [
   {
     heroName: "Katarina",
     skinName: "Prestige Faerie Court Katarina"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Bloodstone Lissandra"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Program Lissandra"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "default"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Prestige Porcelain Lissandra"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Porcelain Lissandra"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Dark Cosmic Lissandra"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Coven Lissandra"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Space Groove Lissandra"
+  },
+  {
+    heroName: "Lissandra",
+    skinName: "Blade Queen Lissandra"
   },
   {
     heroName: "Kindred",
@@ -6746,6 +7254,66 @@ export const heroList = [
   {
     heroName: "Nautilus",
     skinName: "Fright Night Nautilus"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Caterpillar Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Pug'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Hextech Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Zap'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Bee'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Reindeer Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "default"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Deep Sea Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Arcanist Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Monarch Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Sonoran Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Jurassic Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Shan Hai Scrolls Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Lion Dance Kog'Maw"
+  },
+  {
+    heroName: "Kog'Maw",
+    skinName: "Battlecast Kog'Maw"
   },
   {
     heroName: "Kayn",

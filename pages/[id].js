@@ -1,10 +1,13 @@
 "use client";
-import { useState } from "react";
-import styles from "./page.module.css";
 import { heroList } from "data/heroList";
+import { useEffect, useState } from "react";
+import { useRouter } from 'next/router'
+ 
+  
+  
 
-export default function Home() {
-  let searchName = "Xin Zhao"; //todo sıradaki
+const HeroContent = () => {
+  const router = useRouter()
 
   const [result, setResult] = useState();
 
@@ -99,9 +102,9 @@ export default function Home() {
   }
 
   return (
-    <main className={styles.main}>
-      <h1>Generate Content for : {searchName}</h1>
-      <button onClick={async () => findAnswer(searchName)}>Hit API</button>
+    <main>
+      <h1>Generate Content for : {router.query.id}</h1>
+      <button onClick={async () => findAnswer(router.query.id)}>Hit API</button>
 
       {/* for using html style */}
       {/* <div dangerouslySetInnerHTML={ {__html: result} } /> */}
@@ -111,3 +114,5 @@ export default function Home() {
     </main>
   );
 }
+
+export default HeroContent;
