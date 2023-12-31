@@ -156,6 +156,10 @@ export const heroList = [
     skinName: "Heimerdinger"
   },
   {
+    heroName: "Hwei",
+    skinName: "Hwei"
+  },
+  {
     heroName: "Illaoi",
     skinName: "Illaoi"
   },
@@ -1750,6 +1754,14 @@ export const heroList = [
   {
     heroName: "Heimerdinger",
     skinName: "Piltover Customs Heimerdinger"
+  },
+  {
+    heroName: "Hwei",
+    skinName: "default"
+  },
+  {
+    heroName: "Hwei",
+    skinName: "Winterblessed Hwei"
   },
   {
     heroName: "Bel'Veth",
